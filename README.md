@@ -1,2 +1,2 @@
 # MachineLearning-TMU
-My Machine Learning Course for Tarbiat Modarress University
+My Machine Learning Course for Tarbiat Modares University
